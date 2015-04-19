@@ -1,3 +1,3 @@
 # Set-Covering-Assignment-for-the-Discrete-Optimization-Course
 
-Some code I am working on for the Discrete Optimization course.
+Some code I've worked on for the Discrete Optimization course on Coursera.
